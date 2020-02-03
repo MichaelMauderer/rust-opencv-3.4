@@ -1,4 +1,4 @@
-FROM rust:latest
+FROM rust:buster
 MAINTAINER Michael Mauderer <michael@mauderer.me>
 
 RUN apt-get update \

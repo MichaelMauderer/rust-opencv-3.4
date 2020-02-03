@@ -1,0 +1,1 @@
+Docker image with Rust and OpenCV 3.4.2

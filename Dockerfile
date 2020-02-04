@@ -1,4 +1,4 @@
-FROM rust:buster
+FROM rust:stretch
 MAINTAINER Michael Mauderer <michael@mauderer.me>
 
 RUN apt-get update \
